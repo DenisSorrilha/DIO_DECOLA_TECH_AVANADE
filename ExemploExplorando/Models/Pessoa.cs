@@ -46,6 +46,7 @@ namespace ExemploExplorando.Models
 
         public void Apresentar() {
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
+            
         }
     }
 }
