@@ -5,34 +5,34 @@ using System.Globalization;
 using System.IO;
 using System.Numerics;
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+// Dictionary<string, string> estados = new Dictionary<string, string>();
 
-estados.Add("SP", "São Paulo");
-estados.Add("RJ", "Rio de Janeiro");
-estados.Add("MG", "Minas Gerais");
-estados.Add("ES", "Espírito Santo");
+// estados.Add("SP", "São Paulo");
+// estados.Add("RJ", "Rio de Janeiro");
+// estados.Add("MG", "Minas Gerais");
+// estados.Add("ES", "Espírito Santo");
 
-Console.WriteLine(estados["SP"]);
+// Console.WriteLine(estados["SP"]);
 
-// foreach(var item in estados ) {
-//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// // foreach(var item in estados ) {
+// //     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// // }
+
+// // estados.Remove("ES");
+// // estados["SP"] = "São Paulo = valor alterado.";
+
+// // foreach(var item in estados ) {
+// //     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// // }
+
+// string chave = "RJ";
+// Console.WriteLine($"Verificando o elemento {chave}");
+
+// if (estados.ContainsKey(chave)) {
+//     Console.WriteLine($"Valor existente {chave}");
+// } else {
+//     Console.WriteLine($"Valor inexistente. Pode ser adicionado ao dicionário. {chave}");
 // }
-
-// estados.Remove("ES");
-// estados["SP"] = "São Paulo = valor alterado.";
-
-// foreach(var item in estados ) {
-//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-// }
-
-string chave = "RJ";
-Console.WriteLine($"Verificando o elemento {chave}");
-
-if (estados.ContainsKey(chave)) {
-    Console.WriteLine($"Valor existente {chave}");
-} else {
-    Console.WriteLine($"Valor inexistente. Pode ser adicionado ao dicionário. {chave}");
-}
 
 
 
