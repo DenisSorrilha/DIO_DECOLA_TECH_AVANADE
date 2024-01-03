@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\ExemploPOO\\ExemploPOO.csproj": {}
+    "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploPOO\\ExemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\ExemploPOO\\ExemploPOO.csproj": {
+    "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploPOO\\ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploPOO\\ExemploPOO.csproj",
         "projectName": "ExemploPOO",
-        "projectPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\ExemploPOO\\ExemploPOO.csproj",
+        "projectPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploPOO\\ExemploPOO.csproj",
         "packagesPath": "C:\\Users\\denis.sorrilha.ext\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\ExemploPOO\\obj\\",
+        "outputPath": "C:\\Users\\denis.sorrilha.ext\\OneDrive - ESPM\\Documentos\\Pessoais\\estudo\\Bootcamp - Avanade - .NET\\DIO_DECOLA_TECH_AVANADE\\ExemploPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denis.sorrilha.ext\\AppData\\Roaming\\NuGet\\NuGet.Config"
