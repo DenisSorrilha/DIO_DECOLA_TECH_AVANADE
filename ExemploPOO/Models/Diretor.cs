@@ -5,8 +5,11 @@ using System.Threading.Tasks;
 
 namespace ExemploPOO.Models
 {
-    public class Diretor
+    public class Diretor : Professor
     {
-        
+        public override void Apresentar()
+        {
+            Console.WriteLine("Diretor.");
+        }
     }
 }

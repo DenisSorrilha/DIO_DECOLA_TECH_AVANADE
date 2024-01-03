@@ -1,9 +1,16 @@
 ﻿using ExemploPOO.Models;
+using ExemploPOO.Interfaces;
 
-Pessoa p1 = new Pessoa("Denis");
-Aluno a1 = new Aluno("Daniel");
-a1.Apresentar();
-Professor prof = new Professor();
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3, 9));
+Console.WriteLine(calc.Somar(3, 9));
+Console.WriteLine(calc.Dividir(3, 9));
+Console.WriteLine(calc.Subtrair(3, 9));
+
+// Pessoa p1 = new Pessoa("Denis");
+// Aluno a1 = new Aluno("Daniel");
+// a1.Apresentar();
+// Professor prof = new Professor();
 
 
 // Corrente c = new Corrente();
