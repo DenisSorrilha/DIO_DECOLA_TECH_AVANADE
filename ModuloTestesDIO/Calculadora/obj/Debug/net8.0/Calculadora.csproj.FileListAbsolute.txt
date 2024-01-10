@@ -1,0 +1,15 @@
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\denis.sorrilha.ext\OneDrive - ESPM\Documentos\Pessoais\estudo\Bootcamp - Avanade - .NET\DIO_DECOLA_TECH_AVANADE\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
